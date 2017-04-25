@@ -1,1 +1,14 @@
 /* custom styles */
+img {
+  width: 65%;
+  height: 'auto';
+  padding: 5px 10px 5px 10px
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
