@@ -1,14 +1,17 @@
 /* custom styles */
-img {
-  width: 65%;
-  height: 'auto';
-  padding: 5px 10px 5px 10px
+body {
+  background: url("/Users/jamesnsummers/wdi/jamesnsummers.github.io/assets/imgs/james.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
 
 h1 {
-  text-align: center;
+  text-align: right;
+  padding-right: 10px;
+  color: rgb(9, 173, 145);
 }
 
 h2 {
-  text-align: center;
+  text-align: right;
+  padding-right: 10px;
+  color: rgb(9, 173, 145);
 }
