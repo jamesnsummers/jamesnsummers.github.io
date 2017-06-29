@@ -1,2 +1,2 @@
 // sanity check
-console.log("app.js linked.");
+console.log("Hello, world!");

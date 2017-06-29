@@ -1,9 +1,47 @@
-/* custom styles */
+html {
+  font-family: 'Comfortaa', cursive;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
   background: url("https://jamesnsummers.github.io/assets/imgs/james.jpg") no-repeat center center fixed;
   background-size: cover;
   text-align: right;
   color: rgba(255, 255, 255, 0.8);
+}
+
+#page-wrapper {
   padding-top: 20%;
   padding-right: 15%;
 }
+
+#navbar ul {
+	margin: 0;
+	padding: 5px;
+  font-size: 20px;
+	list-style-type: none;
+	text-align: right;
+  opacity: .8;
+	}
+
+#navbar ul li {
+	display: inline;
+	}
+
+#navbar ul li a {
+	text-decoration: none;
+	padding: .2em 1em;
+	color: #fff;
+	}
+
+#navbar ul li a:hover {
+	color: #1e88e5 ;
+	}
+
+  /*
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-family: 'Questrial', sans-serif;
+  font-family: 'Comfortaa', cursive;
+  font-family: 'News Cycle', sans-serif;
+  */
