@@ -1,0 +1,24 @@
+{
+  "name": "jamesnsummers.github.io",
+  "version": "1.0.0",
+  "description": "portfolio site from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesnsummers/jamesnsummers.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "jobs"
+  ],
+  "author": "James N. Summers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesnsummers/jamesnsummers.github.io/issues"
+  },
+  "homepage": "https://github.com/jamesnsummers/jamesnsummers.github.io#readme"
+}
