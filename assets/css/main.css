@@ -1,5 +1,5 @@
 html {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Roboto', sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -38,10 +38,3 @@ body {
 #navbar ul li a:hover {
 	color: #1e88e5 ;
 	}
-
-  /*
-  font-family: 'Ubuntu Condensed', sans-serif;
-  font-family: 'Questrial', sans-serif;
-  font-family: 'Comfortaa', cursive;
-  font-family: 'News Cycle', sans-serif;
-  */
